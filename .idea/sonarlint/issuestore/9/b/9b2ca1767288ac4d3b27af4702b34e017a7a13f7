@@ -1,0 +1,5 @@
+
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œØŒúüÿÿÿÿ
+l	java:S116"RRename this field "id_teen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÓË¨üÿÿÿÿ
+o	java:S116%"ZRename this field "crime_committed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·š™
+\	java:S107/"BConstructor has 14 parameters, which is greater than 7 authorized.(—ˆıïÿÿÿÿÿ

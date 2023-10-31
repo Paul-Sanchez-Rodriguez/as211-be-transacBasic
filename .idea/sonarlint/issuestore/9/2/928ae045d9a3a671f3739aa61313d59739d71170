@@ -1,0 +1,4 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬¼Äìÿÿÿÿÿ
+s	java:S116"RRename this field "id_teen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÓË¨üÿÿÿÿ8—©§õ³1
+v	java:S116'"ZRename this field "crime_committed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·š™8—©§õ³1
